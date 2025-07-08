@@ -8,7 +8,7 @@ EduFund is a blockchain-powered platform that connects talented students with gl
 You can preview and explore a functional demo of EduFund using the following download:
 
 🔗 Download Demo (Google Drive)
-👉 https://drive.google.com/file/d/18uPm3AdgfaJYzWN5F8I5SC9DLAe9xBh3/view?usp=drivesdk
+👉https://drive.google.com/file/d/1Z2uPw6shMq8KQ89P6kis3D4VvQBBLOhQ/view?usp=drivesdk 
 
 
 ## 🚀 Quick Start (Development)
